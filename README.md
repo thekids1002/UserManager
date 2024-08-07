@@ -1,4 +1,4 @@
-# INTERN PHP SOURCE
+# USER MANAGER SOURCE CODE
 
 A brief description of your project.
 
