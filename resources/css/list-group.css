@@ -1,0 +1,14 @@
+.group-list-table td,
+.group-list-table th {
+    /* height: 50px !important;
+    max-height: 50px !important;
+    min-height: 50px !important; */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+}
+
+body {
+    overflow-y: scroll;
+}

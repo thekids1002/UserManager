@@ -1,0 +1,5 @@
+user_flg: 
+  0: "Director|DIRECTOR"
+  1: "Group Leader|DEPARTMENT_LEADER"
+  2: "Leader|TEAM_LEADER"
+  3: "Member|TEAM_MEMBER"

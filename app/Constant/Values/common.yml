@@ -1,0 +1,6 @@
+# Pagination configs
+pagination_limit: 10
+
+del_flg:
+  0: 有効|VALID
+  1: 無効|INVALID
